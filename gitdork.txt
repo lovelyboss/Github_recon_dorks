@@ -1,5 +1,5 @@
 GitHub Dorks for Finding Files
-filename:manifest.xml
+filename:manifest.xml AWS_ACCESS_KEY
 filename:travis.yml
 filename:vim_settings.xml
 filename:database
